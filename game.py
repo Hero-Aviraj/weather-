@@ -1,5 +1,7 @@
 order=input("enter the order")
-if(order=="yelo"):
+print("still im not sure what i have to do ")
+print("enter your gaming name ")
+if(order=="food"):
     print("ok sir thank you")
-else: 
-    print("no sir ")  
+else:
+    print("thank you")    
