@@ -14,3 +14,4 @@ while(True):
     else:
         print("somthing wrong")
 print(f"COMPUTER COSEN {comp}")
+print("THANK YOU")
