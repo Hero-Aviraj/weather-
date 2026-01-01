@@ -82,7 +82,7 @@ function displayForecast(data) {
     forecastSection.innerHTML = '';
     
     // Get forecast days (skip today, show next 4 days)
-    const forecastDays = data.forecast.forecastday.slice(1, 5);
+    const forecastDays = data.forecast.forecastday.slice(1, 6);
     
     forecastDays.forEach(day => {
         const date = new Date(day.date);
